@@ -1,0 +1,39 @@
+body {
+  background-image: url("https://data.whicdn.com/images/149761252/large.jpg");
+}
+
+.title {
+  font-family: Michroma;
+  color: white;
+  background-color: indigo;
+  height: 50px;
+  text-align: center;
+
+}
+
+.new-Button {
+  font-family: Michroma; 
+  color: white;
+  background-color: indigo;
+  font-size: 50px;
+  text-align: center;
+}
+
+.input-label {
+  font-family: Michroma;
+  font-size: 20px;
+  color: white;
+  background-color: indigo;
+}
+
+#add-button {
+  font-family: Michroma;
+  color: white;
+  background-color: indigo;
+}
+
+.rating {
+  font-family: Michroma;
+  font-size: 20px;
+  color: black;
+}
